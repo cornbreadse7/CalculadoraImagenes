@@ -78,7 +78,7 @@ def main():
             sg.popup('Aplicacion de Filtro de Imagenes con Python', 'Version 1.3', 'Cornbreadse7')
 
         if event == 'Codigo Fuente':
-            webbrowser.open('https://github.com/cornbreadse7/MiPrimerEditorenPython', new=1)
+            webbrowser.open('https://github.com/cornbreadse7/CalculadoraImagenes', new=1)
 
         if event == 'Vaciar Imagen 1':
             imagen1 = np.ones((500, 500))
